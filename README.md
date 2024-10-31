@@ -59,14 +59,6 @@ As a blockchain developer with deep experience in decentralized applications, De
 
 ---
 
-### 📘 Latest Technical Blog Posts
-
-- **Optimizing Gas Usage in Solidity** – Key strategies for lowering transaction costs and improving contract efficiency.
-- **Smart Contract Design Patterns** – A guide to modularizing contracts with Proxy and Factory patterns.
-- **Advanced NFT Standards** – Exploring ERC-721A and ERC-1155 for high-performance digital assets.
-
----
-
 ### ⚡ Development Philosophy
 I am dedicated to building scalable, secure, and efficient Web3 solutions that contribute to the growth of decentralized ecosystems. I believe in open-source collaboration, transparent code, and continuous learning in the fast-evolving world of blockchain.
 
