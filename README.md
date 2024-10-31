@@ -54,7 +54,6 @@ As a blockchain developer with deep experience in decentralized applications, De
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awazanah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awazanah&layout=compact&theme=radical)
 
 ---
